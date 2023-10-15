@@ -5,7 +5,7 @@
 <i>
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" />  Used tools & Skill 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" />  Used skills & Tools 
 </summary>
 
    <br>⚙️ skills ⚙️
@@ -39,11 +39,15 @@
 
 <details>
   <summary>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> About My GitHub
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> GitHub Metrics
   </summary>
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lllilyk&theme=rose&hide_border=true&border_radius=7)](https://git.io/streak-stats)
+
+[![Lily's github stats](https://github-readme-stats.vercel.app/api?username=lllilyk&count_private=true&custom_title=GitHub&nbsp;Stats&nbsp;👣&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllilyk&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flllilyk%2Fhit-counter&count_bg=%23E19595&title_bg=%23431511&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
