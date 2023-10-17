@@ -7,8 +7,15 @@
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" />  Used skills & Tools 
 </summary>
+  
+  <br>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="38" height="38" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
 
-   <br>✨ skills ✨
+   <br>⚡ skills ⚡
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
@@ -27,7 +34,7 @@
 	<img src="https://img.shields.io/badge/SemanticUI-35BDB2?style=flat&logo=semanticuireact&logoColor=white" />
 	<br>
 
-<br>🛠 tools 🛠
+<br>⚙️ tools ⚙️
 
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/SpringToolSuite-6DB33F?style=flat&logo=Spring&logoColor=white" />
@@ -48,7 +55,7 @@
 
 [![Lily's github stats](https://github-readme-stats.vercel.app/api?username=lllilyk&count_private=true&custom_title=GitHub&nbsp;Stats&nbsp;📊&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllilyk&layout=compact&custom_title=My&nbsp;Language&nbsp;⚙️&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllilyk&layout=compact&custom_title=My&nbsp;Language&nbsp;🚀&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flllilyk%2Fhit-counter&count_bg=%23E19595&title_bg=%23431511&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
