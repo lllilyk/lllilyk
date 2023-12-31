@@ -25,9 +25,11 @@ Technologies I'm Exploring 🔒
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+  
   <br /> 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=Prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 
 </details>
