@@ -24,7 +24,6 @@ Technologies I'm Exploring 🔒
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
   
   <br /> 
@@ -42,8 +41,6 @@ Technologies I'm Exploring 🔒
 <br />
 
 [![Lily's github stats](https://github-readme-stats.vercel.app/api?username=lllilyk&count_private=true&custom_title=GitHub&nbsp;Stats&nbsp;&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lllilyk&layout=compact&custom_title=Language&nbsp;&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flllilyk%2Fhit-counter&count_bg=%23E19595&title_bg=%23431511&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
